@@ -15,8 +15,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.api.dados.DadosCadastrais;
-import com.api.endereco.Endereco;
-
 import jakarta.transaction.Transactional;
 
 @RestController
